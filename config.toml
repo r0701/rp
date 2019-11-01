@@ -1,4 +1,4 @@
-baseURL = "http://rolep.netlify.com/"
+baseURL = "https://rolep.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hyde"
