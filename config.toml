@@ -1,4 +1,10 @@
 baseURL = "http://rolep.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+theme = "cayman-hugo-theme"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
