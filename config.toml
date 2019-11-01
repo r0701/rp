@@ -1,7 +1,7 @@
 baseURL = "http://rolep.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "cayman"
+theme = "ananke"
 
 [taxonomies]
   tag = "tags"
