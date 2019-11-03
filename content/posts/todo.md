@@ -1,7 +1,7 @@
 ---
-title: "TODO"
-date: 2019-09-26T09:00:45+04:00
-draft: true
+title: TODO
+date: 2019-09-26T05:00:45.000+00:00
+
 ---
 # Things to work on
 
