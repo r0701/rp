@@ -1,7 +1,7 @@
 ---
-title: "Proposed Architecture"
-date: 2019-09-25T08:43:56+04:00
-draft: true
+title: Proposed Architecture
+date: 2019-09-25T04:43:56.000+00:00
+
 ---
 # Proposed Architecture
 
@@ -47,4 +47,4 @@ _needs additional work_
 
 * script to identify the object
 * script to navigate towards the object
-* script to check if ball is captured and then go to 'home' 
+* script to check if ball is captured and then go to 'home'
