@@ -1,7 +1,7 @@
 ---
-title: "30th September Report"
-date: 2019-09-25T08:43:56+04:00
-draft: true
+title: 30th September Report
+date: 2019-09-25T04:43:56.000+00:00
+
 ---
 # 30th September Report
 
@@ -71,4 +71,3 @@ draft: true
 
 1. 5 minute positional tracking results
 3. 5 minute video positional tracking and detection
-
