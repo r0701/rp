@@ -1,9 +1,8 @@
 ---
-title: "Planned Tasks"
-date: 2019-09-25T09:00:45+04:00
-draft: true
----
+title: Planned Tasks
+date: 2019-09-25T05:00:45.000+00:00
 
+---
 ## UAV search and Pursuit other UAV in motion
 
 1. UAV autonomous vertical takeoff to a specific altitude
