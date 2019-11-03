@@ -1,7 +1,7 @@
 ---
-title: "Tracking In The Wild"
-date: 2019-09-25T09:07:51+04:00
-draft: true
+title: Tracking In The Wild
+date: 2019-09-25T05:07:51.000+00:00
+
 ---
 # Tracking In The Wild Summary
 
