@@ -1,7 +1,7 @@
 ---
-title: "Tests to perform on the 15th of October"
-date: 2019-09-25T08:43:56+04:00
-draft: true
+title: Tests to perform on the 15th of October
+date: 2019-09-25T04:43:56.000+00:00
+
 ---
 # Tests to perform on the 15th of October
 
@@ -38,4 +38,3 @@ draft: true
  4. (for ZED) zed wrapper and package to translate position data from the camera message to mavros so the pixhawk can see the data
  5. (realsense) same as ZED
  6. waypoint package/file
-
