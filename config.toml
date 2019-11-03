@@ -1,6 +1,6 @@
 baseURL = "https://rolep.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Rashed Docs"
 theme = "hyde"
 
 [taxonomies]
