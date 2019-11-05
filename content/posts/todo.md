@@ -10,7 +10,15 @@ menu:
 
 * Algorithm
 
-    - [ ] Make the drone more stable when changing altitudes
+    - [X] Control Drone through script
+    - [X] Drone spins on the z-axis
+    - [X] Drone detects objects using ros-yolo
+    - [X] Drone moves forward when an object is detected
+    - [X] Drone yaws to keep the object in frame
+    - [X] Drone can stop when the bounding box is a certain size
+    - [X] Drone moves along the z-axis to follow a ball that changes altitudes
+      - [ ] Make the drone more stable when changing altitudes
+    - [ ] Implement a tracker after detection
 
 * Trackers
 
