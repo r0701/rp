@@ -13,5 +13,5 @@ menu:
    1. if there is none, use mosse as a starter tracker
 3. Test a tracker vs Object detection through ros
 
-    - [ ] Make the drone more stable when changing altitudes
-    - [ ] Look for ros trackers
+    [ ] Make the drone more stable when changing altitudes
+    [ ] Look for ros trackers
