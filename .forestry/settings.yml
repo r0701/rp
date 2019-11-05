@@ -23,9 +23,11 @@ sections:
   match: "**/*"
   templates:
   - simple
-- type: document
-  path: content/posts/todo
+- type: directory
+  path: content/posts
   label: TODO
+  create: documents
+  match: todo
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
