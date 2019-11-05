@@ -1,16 +1,13 @@
 baseURL = "https://rolep.netlify.com/"
 languageCode = "en-us"
-title = "Rashed Docs"
 theme = "hyde"
-
-[taxonomies]
-  tag = "tags"
-
-[permalinks]
-  post = "/:filename/"
-
+title = "Rashed Docs"
 [[menu.main]]
-  name = "Reports"
-  weight = 2
-  identifier = "reports"
-  url = "/reports/"
+identifier = "reports"
+name = "Reports"
+url = "/reports/"
+weight = 1
+[permalinks]
+post = "/:filename/"
+[taxonomies]
+tag = "tags"
