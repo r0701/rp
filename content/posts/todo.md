@@ -8,7 +8,7 @@ menu:
 ---
 # Things to work on
 
-1. Algorithm
+* Algorithm
 
     - [ ] Make the drone more stable when changing altitudes
     - [ ] Look for ros trackers
