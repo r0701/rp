@@ -15,6 +15,6 @@ menu:
       - [ ] If there is none, use mosse as a starter tracker
     - [ ] Test a tracker vs Object detection through ros
 
-* Trackers
+Trackers
 
-      - [ ] Test a tracker vs Object detection through ros
+    - [ ] Test a tracker vs Object detection through ros
