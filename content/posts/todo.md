@@ -12,10 +12,4 @@ menu:
 
     - [ ] Make the drone more stable when changing altitudes
 
-    - [ ] a task list item
-
 ## Tracking & Detection
-
-    - [ ] Look for ros trackers
-      - [ ] If there is none, use mosse as a starter tracker
-    - [ ] Test a tracker vs Object detection through ros
