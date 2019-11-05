@@ -6,8 +6,6 @@ menu:
     weight: 2
 
 ---
-# Things to work on
-
 * Algorithm
 
     - [X] Control Drone through script
