@@ -12,17 +12,17 @@ sections:
   templates:
   - simple
 - type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
   path: content/reports
   label: Reports
   create: all
   match: "**/*"
   templates:
   - simple
-- type: directory
-  path: content/posts
-  label: Posts
-  create: all
-  match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
