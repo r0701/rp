@@ -23,6 +23,11 @@ sections:
   match: "**/*"
   templates:
   - simple
+- type: document
+  path: content/posts/todo
+  label: TODO
+  match: "**/*"
+  read_only: false
 upload_dir: static/uploads
 public_path: "/uploads"
 front_matter_path: ''
