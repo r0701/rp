@@ -8,11 +8,11 @@ menu:
 ---
 # Things to work on
 
-**Algorithms**
+1. Make the drone more stable when changing altitudes
+2. Look for ros trackers
+   1. if there is none, use mosse as a starter tracker
+3. Test a tracker vs Object detection through ros
 
     - [ ] Make the drone more stable when changing altitudes
-
-**Trackers**
-
     - [ ] Look for ros trackers
     - [ ] Test a tracker vs Object detection through ros
