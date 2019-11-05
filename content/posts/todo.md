@@ -10,6 +10,9 @@ menu:
 
 ## Algorithm
 
-\- \[ \] a task list item
+    - [ ] a task list item
+    - [ ] list syntax required
+    - [ ] incomplete
+    - [x] completed
 
 ## Tracking & Detection
