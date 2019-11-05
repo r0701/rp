@@ -8,3 +8,9 @@ theme = "hyde"
 
 [permalinks]
   post = "/:filename/"
+
+[[menu.main]]
+  name = "Reports"
+  weight = 2
+  identifier = "reports"
+  url = "/reports/"
