@@ -7,19 +7,20 @@ menu:
 
 ---
 * Algorithm
-
-    - [X] Control Drone through script
-    - [X] Drone spins on the z-axis
-    - [X] Drone detects objects using ros-yolo
-    - [X] Drone moves forward when an object is detected
-    - [X] Drone yaws to keep the object in frame
-    - [X] Drone can stop when the bounding box is a certain size
-    - [X] Drone moves along the z-axis to follow a ball that changes altitudes
-      - [ ] Make the drone more stable when changing altitudes
-    - [ ] Implement a tracker after detection
-
+  * \[X\] Control Drone through script
+  * \[X\] Drone spins on the z-axis
+  * \[X\] Drone detects objects using ros-yolo
+  * \[X\] Drone moves forward when an object is detected
+  * \[X\] Drone yaws to keep the object in frame
+  * \[X\] Drone can stop when the bounding box is a certain size
+  * \[X\] Drone moves along the z-axis to follow a ball that changes altitudes
+    * \[ \] Make the drone more stable when changing altitudes
+  * \[ \] Implement a tracker after detection
 * Trackers
 
       - [ ] Look for ros trackers
         - [ ] If there is none, use mosse as a starter tracker
       - [ ] Test a tracker vs Object detection through ros
+* Simulation
+  * \[ \] Make a ball attached to a drone
+  * \[ \] Make the target drone fly in a figure 8
