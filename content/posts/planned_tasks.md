@@ -5,28 +5,16 @@ date: 2019-09-25T05:00:45.000+00:00
 ---
 ## UAV search and Pursuit other UAV in motion
 
- 1. UAV autonomous vertical takeoff to a specific altitude
-    * \[ \] UAV autonomous vertical takeoff to a specific altitude
-    * \[ \] UAV autonomous landing from current altitude
-    * \[ \] UAV navigate from current position to a specific position using the shortest path with collision avoidance (GPS coordinates)
-    * \[ \] UAV hovering and visual ground mapping at a specific altitude and executing a specific trajectory (path is a 3D coordinate function)
-    * \[ \] UAV autonimous search for the target
-    * \[ \] UAV attention on a target (visual tracking) by controlling:
-    * \[ \] UAV intercepts a target in the air
-    * \[ \] UAV clamps/hooks a target in the air
-    * \[ \] UAV releases a target into a box in the ground
-    * \[ \] UAV challange 1 trials
- 2. UAV autonomous landing from current altitude
- 3. UAV navigate from current position to a specific position using the shortest path with collision avoidance (GPS coordinates)
- 4. UAV hovering and visual ground mapping at a specific altitude and executing a specific trajectory (path is a 3D coordinate function)
- 5. UAV autonimous search for the target:
-    * A UAV in the air
- 6. UAV attention on a target (visual tracking) by controlling:
-    * visual pursuit (control distance to target)
- 7. UAV intercepts a target in the air
- 8. UAV clamps/hooks a target in the air
- 9. UAV releases a target into a box in the ground
-10. UAV challange 1 trials
+ 1. \[X\] UAV autonomous vertical takeoff to a specific altitude
+ 2. \[X\] UAV autonomous landing from current altitude
+ 3. \[X\] UAV navigate from current position to a specific position using the shortest path with collision avoidance (GPS coordinates)
+ 4. \[X\] UAV hovering and visual ground mapping at a specific altitude and executing a specific trajectory (path is a 3D coordinate function)
+ 5. \[X\] UAV autonomous search for the target
+ 6. \[X\] UAV attention on a target (visual tracking) by controlling:
+ 7. \[ \] UAV intercepts a target in the air
+ 8. \[ \] UAV clamps/hooks a target in the air
+ 9. \[ \] UAV releases a target into a box in the ground
+10. \[ \] UAV challange 1 trials
 
 ### What we can do
 
