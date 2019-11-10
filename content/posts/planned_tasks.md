@@ -1,6 +1,6 @@
 ---
 title: Planned Tasks
-date: 2019-09-25T05:00:45.000+00:00
+date: 2019-11-10T05:00:45+00:00
 
 ---
 ## UAV search and Pursuit other UAV in motion
