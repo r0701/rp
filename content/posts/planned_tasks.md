@@ -36,7 +36,7 @@ Two UAVs: One searches for the target and the second captures the target.
 
 1. Drone 1 flies to a given altitude
 2. Searches for a target
-3. Keeps the target in view, estimate the coordinate of the target (depth, not completed yet)
+3. Keeps the target in view, estimate the coordinate of the target (depth/lidar, not completed yet)
 4. Sends target coordinate to  Drone 2
 5. Drone 2 goes to target
 6. Captures the ball and returns home (capturing mechanism not defined yet) 
