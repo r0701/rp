@@ -18,7 +18,25 @@ date: 2019-09-25T05:00:45.000+00:00
 
 ### What we can do
 
-* We can do Tasks 1, 2 and most of 3.
-* Task 1 and 2 can be done using one command which makes the drone fly to a certain altitude then back down to the starting position. This can be done using more than one method: We can use the package made by Pedro and his team which gives a set of coordinates for the drone to follow, moving to the next whenever it gets within range of the prior point. Task 2 can be done by giving the drone a command to land or by giving the drone a coordinate of (0,0,0) x,y,z coordinates.
-* We can navigate to a position but we have no way to view an obstacle yet, hence, we cannot do the collision avoidance but we can go to a certain coordinate as explained above.
-* Task 4 can be done, partially, by using the inbuilt camera mapping sequence provided either by ZED or Intel's T265 camera. These methods my prove to be inadequate for mapping large areas.
+Discussion for task number:
+
+1. Drone can fly to a given altitude
+2. Drone can land in a given coordinate
+3. Drone can navigate to a goal coordinate while avoiding obstacles 
+4. Drone can map the ground and use it to calculate the shortest path
+5. Drone can fly to a given height and hovers until a target is found
+   1. tools: ROS darknet
+6. Drone uses an algorithm to keep the object centered in the view, once lost the drone initiates another algorithm to locate the target again
+
+***
+
+## Scenario
+
+Two UAVs: One searches for the target and the second captures the target.
+
+1. Drone 1 flies to a given altitude
+2. Searches for a target
+3. Keeps the target in view, estimate the coordinate of the target (depth, not completed yet)
+4. Sends target coordinate to  Drone 2
+5. Drone 2 goes to target
+6. Captures the ball and returns home (capturing mechanism not defined yet) 
