@@ -23,5 +23,6 @@ menu:
       - [ ] Test a tracker vs Object detection through ros
 * Simulation
   * \[X\] Make a ball attached to a drone
+  * \[X\] Make yolo recognize the drone
   * \[ \] Make the target drone fly in a figure 8
   * \[ \] Make the target drone move faster and slower
