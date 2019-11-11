@@ -19,7 +19,7 @@ menu:
 * Trackers
 
       - [ ] Look for ros trackers
-          1. [X] Downloaded matlab
+          1. [X] Download matlab
       - [ ] Test a tracker vs Object detection through ros
 * Simulation
   * \[X\] Make a ball attached to a drone
