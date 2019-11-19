@@ -11,6 +11,6 @@ PyTorch is an open source machine learning library based on the Torch library, u
 
 ### Examples
 
-[https://github.com/cfotache/pytorch_objectdetecttrack](https://github.com/cfotache/pytorch_objectdetecttrack "PyTorch Object Detection and Tracking")
+\[Object Detection\]([https://github.com/cfotache/pytorch_objectdetecttrack](https://github.com/cfotache/pytorch_objectdetecttrack "PyTorch Object Detection and Tracking"))
 
-[https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9](https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9 "Training Yolo for Object Detection in PyTorch")
+\[PyTorch Object Detection\]([https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9](https://towardsdatascience.com/training-yolo-for-object-detection-in-pytorch-with-your-custom-dataset-the-simple-way-1aa6f56cf7d9 "Training Yolo for Object Detection in PyTorch"))

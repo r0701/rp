@@ -9,7 +9,7 @@ fields:
   name: date
   label: date
 pages:
-- content/reports/meeting-18-11.md
 - content/posts/ai.md
+- content/reports/meeting-18-11.md
 - content/posts/research-1.md
 - content/posts/research-1.md
